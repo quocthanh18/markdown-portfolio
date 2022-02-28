@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Playing game 🎮
+* Wandering in the terminal 
+* Reading sources
